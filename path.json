@@ -1,1 +1,50 @@
-
+{
+  "Chapter 1 Season 10": [
+    "epicgames_S10_FNCS_Week1_" + rg + "/S10_FNCS_Week1_" + rg + "_Event1",
+    "epicgames_S10_FNCS_Week2_" + rg + "/S10_FNCS_Week2_" + rg + "_Event1",
+    "epicgames_S10_FNCS_Week3_" + rg + "/S10_FNCS_Week3_" + rg + "_Event1"
+  ],
+  "Chapter 2 Season 1": [
+    "epicgames_S11_FNCS_Week1_" + rg + "/S11_FNCS_Week1_" + rg + "_Event1",
+    "epicgames_S11_FNCS_Week2_" + rg + "/S11_FNCS_Week2_" + rg + "_Event1",
+    "epicgames_S11_FNCS_Week3_" + rg + "/S11_FNCS_Week3_" + rg + "_Event1",
+    "epicgames_S11_FNCS_Week4_" + rg + "/S11_FNCS_Week4_" + rg + "_Event1"
+  ],
+  "Chapter 2 Season 2": [
+    "epicgames_S12_FNCS_Week1_" + rg + "_PC/S12_FNCS_Week1_" + rg + "_PC_Event1",
+    "epicgames_S12_FNCS_Week2_" + rg + "_PC/S12_FNCS_Week2_" + rg + "_PC_Event1",
+    "epicgames_S12_FNCS_Week3_" + rg + "_PC/S12_FNCS_Week3_" + rg + "_PC_Event1",
+    "epicgames_S12_FNCS_Week4_" + rg + "_PC/S12_FNCS_Week4_" + rg + "_PC_Event1"
+  ],
+  "Chapter 2 Season 4": [
+    "epicgames_S14_FNCS_Qualifier1_" + rg + "_PC/S14_FNCS_Qualifier1_" + rg + "_PC_Event1",
+    "epicgames_S14_FNCS_Qualifier2_" + rg + "_PC/S14_FNCS_Qualifier2_" + rg + "_PC_Event1",
+    "epicgames_S14_FNCS_Qualifier3_" + rg + "_PC/S14_FNCS_Qualifier3_" + rg + "_PC_Event1"
+  ],
+  "Chapter 2 Season 5": [
+    "epicgames_S15_FNCS_Qualifier1_" + rg + "/S15_FNCS_Qualifier1_" + rg + "_Event1",
+    "epicgames_S15_FNCS_Qualifier2_" + rg + "/S15_FNCS_Qualifier2_" + rg + "_Event1",
+    "epicgames_S15_FNCS_Qualifier3_" + rg + "/S15_FNCS_Qualifier3_" + rg + "_Event1"
+  ],
+  "Chapter 2 Season 6": [
+    "epicgames_S16_FNCS_Qualifier1_" + rg + "/S16_FNCS_Qualifier1_" + rg + "_Event1",
+    "epicgames_S16_FNCS_Qualifier2_" + rg + "/S16_FNCS_Qualifier2_" + rg + "_Event1",
+    "epicgames_S16_FNCS_Qualifier3_" + rg + "/S16_FNCS_Qualifier3_" + rg + "_Event1"
+  ],
+  "Chapter 2 Season 7": [
+    "epicgames_S17_FNCS_Qualifier1_" + rg + "/S17_FNCS_Qualifier1_" + rg + "_Event1",
+    "epicgames_S17_FNCS_Qualifier2_" + rg + "/S17_FNCS_Qualifier2_" + rg + "_Event1",
+    "epicgames_S17_FNCS_Qualifier3_" + rg + "/S17_FNCS_Qualifier3_" + rg + "_Event1"
+  ],
+  "Chapter 2 Season 8": [
+    "epicgames_S18_FNCS_Qualifier1_" + rg + "/S18_FNCS_Qualifier1_" + rg + "_Event1",
+    "epicgames_S18_FNCS_Qualifier2_" + rg + "/S18_FNCS_Qualifier2_" + rg + "_Event1"
+  ],
+  "Grand Royale": [
+    "epicgames_S18_GrandRoyale_Load_" + rg + "/S18_GrandRoyale_Load_" + rg + "_Event1"
+  ],
+  "Chapter 3 Season 1": [
+    "epicgames_S19_FNCS_Qualifier1_" + rg + "/S19_FNCS_Qualifier1_" + rg + "_Round1",
+    "epicgames_S19_FNCS_Qualifier2_" + rg + "/S19_FNCS_Qualifier2_" + rg + "_Round1"
+  ]
+}
